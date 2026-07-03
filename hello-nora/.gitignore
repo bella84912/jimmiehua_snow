@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+
+# 敏感設定檔（含真實 Token，不進版本控制）
+**/meta-config.md
+
+# 個人資料（用戶稱呼，每個學員自己的，不進版本控制）
+**/user-profile.md
+
+# 30 prompts（另外發放，不進 repo）
+resources/30-marketing-prompts.md
